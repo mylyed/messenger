@@ -1,6 +1,6 @@
-#Messenger(信使)
+# Messenger(信使)
 
-Messenger,基于socket.io、layim的即时通讯系统。
+Messenger是基于socket.io、layim的即时通讯系统。
 涉及技术：spring boot，mybatis，socket.io.js，netty-socketio，
 [layim](https://www.layui.com/demo/layim.html)(商业需要授权)、
 mysql等。
